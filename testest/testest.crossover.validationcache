@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="119">
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Virtual Acoustics\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Triggers\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\testest.wproj" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Switches\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\States\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\SoundBanks\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Queries\Factory Queries.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Queries\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Presets\Factory Spatial Audio.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Presets\Factory Reflect.wwu" DateLow="1724831606" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Presets\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Modulators\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Mixing Sessions\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Metadata\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Game Parameters\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Events\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory Reflect.wwu" DateLow="1724831606" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory McDSP Effects.wwu" DateLow="1724831608" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory Mastering Suite.wwu" DateLow="1724831606" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Filters.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Dynamics.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Delay.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory iZotope Box Modeler.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory Effects.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Factory Auro Headphone.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Effects\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1724831601" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Conversion Settings\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Control Surface Sessions\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Audio Devices\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Attenuations\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\WwiseProjects\testest\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Virtual Acoustics\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Triggers\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\testest.wproj" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\testest.crossover.wsettings" DateLow="1726143039" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Switches\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\States\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\SoundBanks\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Queries\Factory Queries.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Queries\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Presets\Factory Spatial Audio.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Presets\Factory Reflect.wwu" DateLow="1724831606" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Presets\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Modulators\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Mixing Sessions\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Metadata\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Game Parameters\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Events\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory Reflect.wwu" DateLow="1724831606" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory McDSP Effects.wwu" DateLow="1724831608" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory Mastering Suite.wwu" DateLow="1724831606" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Filters.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Dynamics.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Delay.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory iZotope Box Modeler.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory Effects.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Factory Auro Headphone.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Effects\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1724831601" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Conversion Settings\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Control Surface Sessions\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Audio Devices\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Attenuations\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Actor-Mixer Hierarchy\New Work Unit.wwu" DateLow="1726142949" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1724831602" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1724831607" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\SimCity5000\testest\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1726142920" DateHigh="0"/>
+</ValidationCache>
